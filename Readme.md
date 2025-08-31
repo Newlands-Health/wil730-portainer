@@ -3,7 +3,7 @@
 ## Microsoft Entra ID App registration
 
 ```
-az deployment group create --resource-group app-reg-rg --template-file .\azure\auth-app\auth-app.bicep
+az deployment group create --resource-group app-reg-rg --template-file azure/auth-app/auth-app.bicep
 ```
 
 Student Number: `20230254`
